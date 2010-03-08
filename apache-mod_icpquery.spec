@@ -6,7 +6,7 @@
 Summary:	Extend Apache's mod_rewrite by internal mapping functions using ICP
 Name:		apache-%{mod_name}
 Version:	2.0.2
-Release: 	%mkrel 3
+Release: 	%mkrel 4
 Group:		System/Servers
 License:	Apache License
 URL:		http://code.google.com/p/modicpquery
