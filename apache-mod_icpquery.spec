@@ -9,7 +9,7 @@ Version:	2.0.2
 Release: 	8
 Group:		System/Servers
 License:	Apache License
-URL:		http://code.google.com/p/modicpquery
+URL:		https://code.google.com/p/modicpquery
 Source0:	http://modicpquery.googlecode.com/files/%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
